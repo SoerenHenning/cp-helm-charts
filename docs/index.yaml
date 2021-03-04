@@ -5,10 +5,10 @@ entries:
     appVersion: "1.0"
     created: "2020-12-10T13:04:39.905555-05:00"
     description: A Helm chart for Confluent Platform Community Edition
-    digest: 6adf7734ed23975318a57842e8cc612217a89bc427b9787c1725e0cb4a886c45
+    digest: 3c7e0e2f5629eb604f5b6de0c39bf0f0d191eba30cec6086c70700ace7ba70bb
     name: cp-helm-charts
     urls:
-    - cp-helm-charts-0.6.0.tgz
+    - https://github.com/SoerenHenning/cp-helm-charts/releases/tag/v6.0.1-1-JMX-FIX-2
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1.0"
